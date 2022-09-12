@@ -90,3 +90,5 @@ if s=="safe":
     print("the sequence of Processes is: ",Sequence)
 else:
     print("safe")
+
+#Banker's Algorithm by Aadi Juvekar
